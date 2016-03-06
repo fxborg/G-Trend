@@ -1,5 +1,5 @@
 # G Trend Indicator   
-This indicator drawing trend lines automatically using controid of convex hulls.  
+This indicator drawing trend lines automatically using centroid of convex hulls.  
 this url for more information.
 http://fxborg-labo.hateblo.jp/archive/category/Auto%20Trend%20Line
 
