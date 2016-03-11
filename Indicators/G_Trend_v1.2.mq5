@@ -180,7 +180,7 @@ int OnCalculate(const int rates_total,
       double s_max=0;
       double s_count=0;
       //---
-      for(int j=0;j<up_n;j++)
+      for(int j=0;j<lo_n;j++)
         {
          double v=(sa*lower2[j][0]+sb)-lower2[j][1];
          if(v>=0)
